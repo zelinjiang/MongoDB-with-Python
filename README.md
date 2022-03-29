@@ -2,9 +2,9 @@
 
 Hey there, welcome!         
 
-This is an introduction of how to comnnect MongoDB, create databases, create collections, query and update MongoDB with Python.         
+This is a series that integrates your knowledge in Web-scraping, RegEx, API and MongoDB (comnnect MongoDB, create databases, create collections, query and update MongoDB, and set Index to speed up your query with Python).         
 
-This tutorial consists of 4 files:       
+It consists of 4 files:       
 - 0 - samples_pokemon.zip
 - 1 - Connecting MongoDB Server and Do Simple Queries.py
 - 2 - Comprehensive Project - Scrape(BeautifulSoup), Store, and Query the Yelp Top 40 Donut Shops in San Francisco.py
