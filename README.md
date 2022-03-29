@@ -17,6 +17,7 @@ The second file is a Python code that shows how to connect you local MongoDB ser
 The third and fourth file are two comprehensive End-to-End projects that integrate your knowledge in Web-scraping, RegEx, API and MongoDB (includes Indexing).       
 
 They start from scraping the data from webpages and store the information into the database-collection created. Then the program will scrape (or use API to get) some more information and update them into the database. Lastly we will also set an Index on one field to increase the query speed.                   
+
 If you already know well about Web-scraping then they should be understandable, but if you are not, I highly recommend you go through my previous repo 'Web-scraping with BeautifulSoup and Selenium', after you finished the 6 exercises there, you will be very fluent in web-scraping.               
 
 
