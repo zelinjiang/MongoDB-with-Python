@@ -5,10 +5,10 @@ Hey there, welcome!
 This is an introduction of how to comnnect MongoDB, create databases, create collections, query and update MongoDB with Python.         
 
 This tutorial consists of 4 files:       
-- 0. samples_pokemon.zip
-- 1. Connecting MongoDB Server and Do Simple Queries.py
-- 2. Comprehensive Project - Scrape(BeautifulSoup), Store, and Query the Yelp Top 40 Donut Shops in San Francisco.py
-- 3. Comprehensive Project 2 - Scrape(Selenium) and Store the Top 100 San Francisco Companies on Zippia.py
+- 0 - samples_pokemon.zip
+- 1 - Connecting MongoDB Server and Do Simple Queries.py
+- 2 - Comprehensive Project - Scrape(BeautifulSoup), Store, and Query the Yelp Top 40 Donut Shops in San Francisco.py
+- 3 - Comprehensive Project 2 - Scrape(Selenium) and Store the Top 100 San Francisco Companies on Zippia.py
 
 The first file is a sample database 'Pokemon', which consists of some charasters of Pokemon that I don't know any of them.             
 
